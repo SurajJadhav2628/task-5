@@ -1,0 +1,15 @@
+# Task 5: SQL Joins (INNER, LEFT, RIGHT, FULL)
+
+
+Learn different types of SQL JOINs.
+
+## 📋 Task Details:
+1. Created two related tables: `Customers` and `Orders`
+2. Used various JOIN
+
+## 🔍 JOIN Queries Used:
+
+- **INNER JOIN**: Showed orders with matching customer details.
+- **LEFT JOIN**: Displayed all customers, including those without orders.
+- **RIGHT JOIN**: Displayed all orders, including those with no matching customers.
+- **FULL JOIN** ( using `UNION`): Combined results of LEFT and RIGHT joins to include all records.
